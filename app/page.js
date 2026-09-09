@@ -98,7 +98,7 @@ export default function HomePage() {
                 Where you live
               </p>
               <h2 className="mt-4 text-balance font-display text-4xl font-medium leading-tight text-birch sm:text-5xl">
-                The topic guides cover the city. This covers your block.
+                The above guide covers the city. This part covers your block.
               </h2>
               <p className="mt-4 max-w-xl text-[15px] leading-relaxed text-birch/60">
                 Nearest bus stop, nearest shop, laundry room, sauna sign-up -
